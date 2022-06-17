@@ -68,7 +68,7 @@ df.to_html()
 
 ## Deliverable 1
 ## use browser to visit the URL
-url = 'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars'
+url = 'https://marshemispheres.com/'
 
 browser.visit(url)
 
@@ -86,7 +86,7 @@ for hemis in range(4):
     
    
     hemispheres = {}
-    hemispheres['img_url'] = f'https://astrogeology.usgs.gov/search/results?q=hemisphere+enhanced&k1=target&v1=Mars/{img_url}'
+    hemispheres['img_url'] = f'https://marshemispheres.com/{img_url}'
     hemispheres['title'] = title
     hemisphere_image_urls.append(hemispheres)
     
