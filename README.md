@@ -6,4 +6,6 @@ This project adjusts a pre-existing web app using BeautifulSoup and Splinter. To
 
 ## Resources
 Software: Python, Jupyter Notebook, Pandas, BeautifulSoup, Splinter, Flask, PyMongo, MongoDB, HTML5, Bootstrap 3
+
 Web page: https://marshemispheres.com/
+
